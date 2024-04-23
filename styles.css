@@ -1,0 +1,17 @@
+body {
+    background-color: lightpink;
+    font: arial, sans-serif;
+  
+    
+}
+img {
+    height: 350px;
+    width: 400px;
+     border: 1px ridge rgb(243, 243, 250);
+    box-shadow: 10px 5 10px;
+    position: center;
+
+}
+h3 {
+    text-align: center;
+}
